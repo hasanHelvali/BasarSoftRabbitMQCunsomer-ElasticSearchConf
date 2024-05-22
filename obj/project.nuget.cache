@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShkHxYtP6+NWlToBhigoZAP6ALIbXJG6URYcCr2SGykEc6r0Mx6Y7S1QRSn1z92TMfGkjraMqKVp9Ixt4N2s/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan_Helvali\\Desktop\\BasarsoftLogConsole\\BasarsoftLogConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Hasan_Helvali\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

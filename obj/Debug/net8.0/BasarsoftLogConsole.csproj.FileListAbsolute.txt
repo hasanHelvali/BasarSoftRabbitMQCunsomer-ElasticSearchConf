@@ -17,3 +17,4 @@ C:\Users\Hasan_Helvali\Desktop\BasarsoftLogConsole\obj\Debug\net8.0\BasarsoftLog
 C:\Users\Hasan_Helvali\Desktop\BasarsoftLogConsole\obj\Debug\net8.0\ref\BasarsoftLogConsole.dll
 C:\Users\Hasan_Helvali\Desktop\BasarsoftLogConsole\bin\Debug\net8.0\Elasticsearch.Net.dll
 C:\Users\Hasan_Helvali\Desktop\BasarsoftLogConsole\bin\Debug\net8.0\Nest.dll
+C:\Users\Hasan_Helvali\Desktop\BasarsoftLogConsole\obj\Debug\net8.0\BasarsoftLogConsole.sourcelink.json

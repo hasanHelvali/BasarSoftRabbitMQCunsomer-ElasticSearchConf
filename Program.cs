@@ -36,7 +36,7 @@ namespace BasarsoftLogConsole
             channel.BasicConsume(queue: queueName, autoAck: true, cunsomer);
 
             //elastic Search
-            var settings=new ConnectionSettings(new Uri("http://localhost:9200")).DefaultIndex("logs");
+            var settings=new ConnectionSettings(new Uri("http://localhost:9200")).DefaultIndex("logs_v3");
             elasticClient = new ElasticClient(settings);
 
             cunsomer.Received +=async (sender, e) =>
@@ -51,10 +51,13 @@ namespace BasarsoftLogConsole
         }
         private static async Task SendLogToElasticSearch(string logMessage)
         {
-            var log = new Dictionary<string, object>
-            {
-                { "Message", logMessage },
-            };
+            //var log = new Dictionary<string, object>
+            //{
+            //    { "Message", logMessage },
+            //};
+            var log = new { Message = logMessage, Timestamp = DateTime.UtcNow };
+
+
 
             var indexResponse = await elasticClient.IndexDocumentAsync(log);
 

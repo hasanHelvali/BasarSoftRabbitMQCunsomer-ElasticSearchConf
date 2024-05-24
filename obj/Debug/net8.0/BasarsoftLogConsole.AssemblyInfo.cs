@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasarsoftLogConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59a3af1b4cb88c943861164cc71af45597c65ef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasarsoftLogConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasarsoftLogConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
